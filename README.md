@@ -18,9 +18,9 @@
 <h2><span dir="auto">Installation and User Guide</span></h2>
 <h3><span dir="auto">1. Installation</span></h3>
 <ol start="1">
- 	<li><b><span dir="auto">Upload File:</span></b><span dir="auto"> Upload the file </span><code>wp-safe-htaccess-manager.php</code><span dir="auto">(or plugin folder, if packaged) to the </span><code>wp-content/plugins/</code><span dir="auto">.</span></li>
+ 	<li><b><span dir="auto">Upload File:</span></b><span dir="auto"> You need to place the plugin code in a folder called wp-safe-htaccess-manager , zip it up, and upload it to your WordPress installation. <span dir="auto">(or plugin folder, if packaged) to the </span><code>wp-content/plugins/</code><span dir="auto">.</span></li>
  	<li><b><span dir="auto">Activate:</span></b><span dir="auto"> Go to </span><b><span dir="auto">Plugins</span></b><span dir="auto"> in your WordPress dashboard and click </span><b><span dir="auto">Activate</span></b><span dir="auto"> for </span><i><span dir="auto">WP Safe HTAccess Manager</span></i><span dir="auto"> .</span></li>
- 	<li><b><span dir="auto">Access:</span></b><span dir="auto"> The settings menu will appear under </span><b><span dir="auto">Settings </span></b><span class="math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="mrel"><span dir="auto">?</span></span></span></span></span></span> <b><span dir="auto">HTAccess Shield</span></b><span dir="auto"> .</span></li>
+ 	<li><b><span dir="auto">Access:</span></b><span dir="auto"> The settings menu will appear under </span><b><span dir="auto">Settings </span></b><span class="math-inline"><span class="katex"><span class="katex-html" aria-hidden="true"></span></span></span> <b><span dir="auto">WPSHtaccess Manager</span></b></li>
 </ol>
 <h3><span dir="auto">2. Use (Applying Safety Rules)</span></h3>
 <span dir="auto">The admin panel is divided into clear sections:</span>
@@ -39,7 +39,7 @@
 <h4><span dir="auto">3. Execute Atomic Test</span></h4>
 <span dir="auto">This is the crucial step:</span>
 <ol start="1">
- 	<li><span dir="auto">Once you've selected your rules and added custom code, click the main button: </span><b><span dir="auto">? Execute Atomic Test and Apply Changes to .htaccess</span></b><span dir="auto"> .</span></li>
+ 	<li><span dir="auto">Once you've selected your rules and added custom code, click the main button: </span><b><span dir="auto">Execute Atomic Test and Apply Changes to .htaccess</span></b><span dir="auto"> .</span></li>
  	<li><b><span dir="auto">Successful Result:</span></b><span dir="auto"> If the operation is successful (writing to the file works), you will receive a message saying “Changes applied successfully! Atomic Test passed.” and your new rules will appear in the file </span><code>.htaccess</code><span dir="auto">with their timestamps.</span></li>
  	<li><b><span dir="auto">Failed Result:</span></b><span dir="auto"> If the operation fails (usually due to file permissions), you will receive an error message and </span><b><span dir="auto">your file </span><code>.htaccess</code><span dir="auto">will not be modified</span></b><span dir="auto"> , preventing a 500 error.</span></li>
 </ol>
