@@ -1,6 +1,6 @@
 # WP Safe htaccess Manager
 <br/>It is a WordPress plugin that allows you to edit htaccess online
-<br/>Author: Roberto Aleman
+<br/>Author: [Roberto Aleman](https://www.linkedin.com/in/rcaleman/)
 <br/>Web: [ventics.com](https://ventics.com/wp-safe-htaccess-manager/)
 
 <span dir="auto">WP Safe HTAccess Manager: Official Documentation</span>
