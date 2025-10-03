@@ -17,6 +17,7 @@
 </ol>
 <h2><span dir="auto">Installation and User Guide</span></h2>
 <h3><span dir="auto">1. Installation</span></h3>
+<img class="alignnone size-full wp-image-14334" src="https://ventics.com/wp-content/uploads/2025/10/ventics.com_WP-Safe-Htaccess-Manager-1.jpg" alt="WP Safe Htaccess Manager" width="1274" height="629" />
 <ol start="1">
  	<li><b><span dir="auto">Upload File:</span></b><span dir="auto"> You need to place the plugin code in a folder called wp-safe-htaccess-manager , zip it up, and upload it to your WordPress installation. <span dir="auto">(or plugin folder, if packaged) to the </span><code>wp-content/plugins/</code><span dir="auto">.</span></li>
  	<li><b><span dir="auto">Activate:</span></b><span dir="auto"> Go to </span><b><span dir="auto">Plugins</span></b><span dir="auto"> in your WordPress dashboard and click </span><b><span dir="auto">Activate</span></b><span dir="auto"> for </span><i><span dir="auto">WP Safe HTAccess Manager</span></i><span dir="auto"> .</span></li>
@@ -33,6 +34,9 @@
 </ul>
 <h4><span dir="auto">2. Custom Rules</span></h4>
 <span dir="auto">If you need to add custom Apache directives not covered by the templates, you can paste them into this text field.</span>
+
+   <img class="size-full wp-image-14335" src="https://ventics.com/wp-content/uploads/2025/10/ventics.com_Custom-Rules-.jpg" alt="Custom Rules" width="1289" height="532" />
+   
 <ul>
  	<li><b><span dir="auto">Important:</span></b><span dir="auto"> Enter only valid Apache directives. Remember that these will also be tested by the Atomic Test!</span></li>
 </ul>
