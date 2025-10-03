@@ -124,3 +124,4 @@
 </div>
 </div>
 </div>
+Disclaimer. This software is provided as is, you are responsible for using it in your WordPress installation, but the author is not responsible for any misuse that the user may give it and that could potentially take your site offline.
