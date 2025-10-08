@@ -86,8 +86,7 @@
 <br/># — Rule: Custom HTAccess Code —
 <br/># Added by WP Safe HTAccess Manager on 2025-10-01 20:25:28.
 <br/># (Tu código personalizado aquí)
-
-# END WP SHIELD RULES 
+<br/>END WP SHIELD RULES 
 <h3><span dir="auto">WordPress Options Used</span></h3>
 <span dir="auto">The plugin saves its state and configuration in the table </span><code>wp_options</code><span dir="auto">:</span>
 <div class="horizontal-scroll-wrapper">
